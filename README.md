@@ -126,5 +126,5 @@ These commands will provide detailed information about PostgreSQL activities on 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-For questions or support, contact `ardagumus03@gmail.com`.
+For questions or support, contact `ardagumuss@outlook.com`.
 
